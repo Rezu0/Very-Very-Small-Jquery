@@ -1,7 +1,7 @@
 # Very-Very-Small-Jquery
 Umm im very very beginner in JS/Jquery, but i think Jquery is so fun for explore, and yeah i make this small form with jquery
 
-If u need try https://jsfiddle.net/vagxe72j/
+If u need try <a href="https://jsfiddle.net/vagxe72j/" target="_blank">Click This</a>
 
 or
 
