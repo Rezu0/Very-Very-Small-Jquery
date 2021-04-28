@@ -1,6 +1,10 @@
 # Very-Very-Small-Jquery
 Umm im very very beginner in JS/Jquery, but i think Jquery is so fun for explore, and yeah i make this small form with jquery
 
+If u need try https://jsfiddle.net/vagxe72j/
+
+or
+
 1. I make this part simple for user try
 ![github1](https://user-images.githubusercontent.com/54113198/116290856-21586c80-a7be-11eb-8c78-326a7dcf0696.PNG)
 
